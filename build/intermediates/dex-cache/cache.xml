@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\pre-dexed\debug\classes-0b6e87e1f342ee438a10467dc376bfb5b79e99e1.jar"
+        jar="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-462fbd2d80b09f94314edcea4e212f51ec369fda.jar"
+        jar="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\pre-dexed\debug\classes-f2861cbfce154bf68be432192ad65a4205a994c2.jar"
+        jar="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="C:\Users\pc1\AndroidStudioProjects\HYMv1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e810abd1abbe1395fbd588220b3c399974104852.jar"
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+
+</pre-dex-items>

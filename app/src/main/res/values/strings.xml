@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HYMv1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="setting">K U R U L U M</string>
+    <string name="start">B A Ş L A T</string>
+    <string name="stop">D U R D U R</string>
+
+</resources>
