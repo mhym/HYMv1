@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HYM271114</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="startService">Servisi Baslat</string>
+    <string name="title">HYM</string>
+    <string name="title_paired_devices">Eslesmis Cihazlar</string>
+    <string name="title_new_devices">Yeni Cihazlar</string>
+    <string name="button_scan_new">Scan for other devices</string>
+    <string name="none_paired">No device have been paired</string>
+    <string name="none_found">Yeni cihaz bulunamadı</string>
+    <string name="HYM">Hasta Yardımcı Modülü</string>
+    <string name="setting">K U R U L U M</string>
+    <string name="start">B A Ş L A T</string>
+    <string name="measure">Ö L Ç Ü M \n S O N U Ç L A R I</string>
+    <string name="stop">D U R D U R</string>
+    <string name="title_activity_giris">Giris</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_measure"> Ölçüm Sonuçları</string>
+    <string name="setuptitle"> Kurulum Ekranı</string>
+    <string name="title_activity_btansiyon">Tansiyon ve Nabız verileri</string>
+    <string name="title_activity_nem">Nem verileri</string>
+    <string name="title_activity_sicaklik">Sıcaklık verileri</string>
+    <string name="title_activity_hareket">Hareket verileri</string>
+    <string name="title_activity_batarya">Batarya verileri</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+
+</resources>
