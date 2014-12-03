@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/HYM271114.iml" filepath="$PROJECT_DIR$/HYM271114.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/HYMv1.iml" filepath="$PROJECT_DIR$/HYMv1.iml" />
+>>>>>>> FETCH_HEAD
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
